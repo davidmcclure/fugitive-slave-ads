@@ -7,6 +7,7 @@ import os
 
 from textblob import TextBlob
 from cached_property import cached_property
+from collections import Counter
 
 def scan_paths(root, pattern):
     """Given a top-level directory and path regex, generate paths recursively.
@@ -46,7 +47,7 @@ class Ad(dict):
     def transcript_blob(self):
         """Spin up a cached blob on `Transcript`.
         """
-        return TextBlob(self['Transcript'])
+        return TextBlob(self['Transcript']) if 'Transcript' in self else None
 
 
 @attr.s
@@ -58,3 +59,24 @@ class Corpus:
         """Generate ad paths.
         """
         return scan_paths(self.path, '\.txt')
+
+    def ads(self):
+        """Generate ad instances.
+        """
+        for path in self.paths():
+            ad = Ad.from_file(path)
+            if ad.transcript_blob:
+                yield ad
+            print(path)
+
+    def count_pos(self, *tags):
+        """For a given POS tag, get word counts.
+        """
+        counts = Counter()
+
+        for ad in self.ads():
+            for token, pos in ad.transcript_blob.tags:
+                if pos in tags:
+                    counts[token.lower()] += 1
+
+        return counts
