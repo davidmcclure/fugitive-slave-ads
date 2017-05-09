@@ -1,5 +1,7 @@
 
 
+import attr
+
 from textblob import TextBlob
 from cached_property import cached_property
 
@@ -37,7 +39,7 @@ class Ad(dict):
         return TextBlob(self['Transcript'])
 
 
+@attr.s
 class Corpus:
 
-    def __init__(self, path):
-        self.path = path
+    path = attr.ib()
