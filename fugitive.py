@@ -35,3 +35,9 @@ class Ad(dict):
         """Spin up a cached blob on `Transcript`.
         """
         return TextBlob(self['Transcript'])
+
+
+class Corpus:
+
+    def __init__(self, path):
+        self.path = path
