@@ -1,0 +1,32 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/113
+Headline: Ran away
+Publishing newspaper: [Place of publication not identified] : The Star and North Carolina State Gazette
+Date of advertisement: 1830-03-18
+Page: 1
+Time period (decade): 1830-1839
+Person placing ad: William Boylan
+Date of departure: 1830-03-15
+County of residence: Wake County (N.C.)
+Place of residence: Raleigh (N.C.)
+Coordinates: 35.830204,-78.641439
+Presumed or intended destination: Alabama
+Slave name(s): David
+Slaveholder: William Boylan
+Transcript: Ran Away<BR>From the subscriber, on the 15th instant, his man DAVID, who was purchased at Mr Blake Baker's sale. He is a small man, about 35 years old, and slovenly in his dress--is a carpenter by trade. His clothing is not recollected. His wife was taken off to the Alabama about 6 weeks since by her master, Capt. Thomas Turner, from Halifax county. It is believed that David will attempt to follow his wife. I will give a liberal reward for the apprehension of David, if delivered to me, or secured so that I get him.<BR>He will probably attempt to follow some gang of negroes going out to the west, and be with them at nights.<BR>WM.[William] BOYLAN.<BR>Raleigh, March 18, 1830.<BR>12 tf
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 2167
+Microfilm Roll: 3
+Object ID: 21670301-1830-03-18-03-01
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908770633

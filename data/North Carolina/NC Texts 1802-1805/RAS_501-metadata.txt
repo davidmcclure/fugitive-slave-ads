@@ -1,0 +1,30 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/501
+Headline: 25 dollars reward.
+Publishing newspaper: Raleigh, N.C. : Raleigh Register and North Carolina Weekly Advertiser
+Date of advertisement: 1803-12-05
+Page: 3
+Time period (decade): 1800-1809
+Person placing ad: James Jones
+County of residence: Franklin County (N.C)
+Presumed or intended destination: Johnston County
+Slave name(s): Ned
+Slave alias: John Hugh Caudge the Barber
+Slaveholder: James Jones
+Transcript: 25 Dollars Reward.<BR>RAN AWAY, about the middle of August last, a Negro Fellow about 18 or 19 years old, by the Name of NED, inclinable to be knock-kneed, slender made, tolerably thick Lips; talks with much understanding and some Humour when in Conversation.  I have Reasons to believe that the Negro has obtained a Pass from some trifling Person, in which he passes by the Name of John Hugh Caudge the Barber.  He has been seen not long since in Johnston County, near Smithfield, where he has Connexions[sic].  The above Reward will be paid any Person who will deliver the said Negro Ned, or a liberal Reward to any Person securing him in any Goal, and giving information, so that I get him again.<BR>JAMES JONES.<BR>Franklin Co. N.C. Nov. 30, 1803.
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 252
+Microfilm Roll: 2
+Object ID: 02520201-1803-12-05-03
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908772963

@@ -1,0 +1,31 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/610
+Headline: Two dollars reward
+Publishing newspaper: Salisbury, N.C. : Western Carolinian
+Date of advertisement: 1820-07-25
+Page: 3
+Time period (decade): 1820-1829
+Person placing ad: William Dickson
+Date of departure: 1820-07-05
+County of residence: Rowan County (N.C.)
+Place of residence: Salisbury (N.C.)
+Coordinates: 35.665781,-80.491051
+Slave name(s): Lizza
+Slaveholder: William Dickson
+Transcript: Two Dollars Reward.<BR> RAN away from the subscriber, living in Salisbury, on the 5th instant, a negro girl by the name of LIZZA. It is supposed that the said girl is in the neighborhood of Mrs. Steel's plantation. I will give the above reward on the delivery of the girl, or for information of being lodged in any Gaol in this state. All persons are forewarned of harboring said girl, under penalty by law prescribed.<BR> William Dickson.<BR>July 18, 1820.
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 692
+Microfilm Roll: 1
+Object ID: 06920101-1820-07-25-03-02
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908773347

@@ -1,0 +1,31 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/2156
+Headline: Ranaway
+Publishing newspaper: Raleigh, N.C. : The Star
+Date of advertisement: 1812-09-18
+Page: 2
+Time period (decade): 1810-1819
+Person placing ad: William Jones
+Date of departure: 1812-08-30
+County of residence: Wake County (N.C.)
+Place of residence: Raleigh (N.C.)
+Coordinates: 35.830204,-78.641439
+Slave name(s): Willis
+Slaveholder: William Jones
+Transcript: RANAWAY<BR>FROM me on the 30th day of August, a Negro man named WILLIS, 21 or 22 years of age; has lately been whipped; can look a man in the face and tell as smooth a lie as any one without exception. I will give Five Dollars reward for said Negro man, if delivered to me in Raleigh; and will also be much obliged to any person who may hereafter find him out my service without a pass, to give him 39 lashes, well laid on. Said man Willis is rather of a yellow complexion, very smart and active, five feet six or seven inches high.<BR>Wm. [William] Jones.<BR>Raleigh, September 17, 1812.
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 2167
+Microfilm Roll: 1
+Object ID: 21670101-1812-09-18-02
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908796202

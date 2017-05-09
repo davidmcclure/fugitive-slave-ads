@@ -1,0 +1,31 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/311
+Headline: $20 reward
+Publishing newspaper: Halifax, N.C. : Free Press
+Date of advertisement: 1834-07-18
+Page: 3
+Time period (decade): 1830-1839
+Person placing ad: Robert A. Bell
+County of residence: Edgecombe County (N.C.)
+Place of residence: Tarboro (N.C.)
+Coordinates: 35.905219,-77.557211
+Slave name(s): Isaac
+Slaveholder: Robert A. Bell
+Former slaveholder: Joseph R. Lloyd
+Transcript: $20 Reward.<BR>THE Subscriber will pay the above reward and all reasonable expences[sic], for the apprehension and confinement in any jail of negro man<BR>ISAAC,<BR>Formerly the property of Jos.[Joseph] R. Lloyd, Esq.--Said negro is about six feet high, dark complected, and between 40 and 45 years of age. He was raised in this county, and has a wife at W. H. Robards's plantation, in the vicinity of which it is supposed he is lurking.<BR>ROBERT A. BELL.<BR>Tarborough, July 16, 1834.<BR>44
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 2282
+Microfilm Roll: 4
+Object ID: 22820401-1834-07-18-03
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908771497

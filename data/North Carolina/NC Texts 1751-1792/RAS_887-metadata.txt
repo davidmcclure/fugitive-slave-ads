@@ -1,0 +1,30 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/887
+Headline: Twenty dollars reward
+Publishing newspaper: New Bern, N.C. : North Carolina Gazette
+Date of advertisement: 1778-10-09
+Page: 4
+Time period (decade): 1770-1779
+Person placing ad: Mary Gordon
+County of residence: Craven County (N.C.)
+Place of residence: New Bern (N.C.)
+Coordinates: 35.092858,-77.071831
+Slave name(s): Sall
+Slaveholder: Mary Gordon
+Transcript: TWENTY DOLLARS REWARD. <BR>Ran away from me in Newbern, a negro wench named Sall, a short, thick, yellowish wench, well known in Newbern. She has been seen in company with Billico, a fellow of Mr. Sanders's, and is supposed harboured by him.--Whoever delivers her to me, or secures her in any gaol, shall have the reward. (3) MARY GORDAN.
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 248
+Microfilm Roll: 1
+Object ID: 02480106-1778-10-09-04
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908776268

@@ -1,0 +1,32 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/1616
+Headline: [Untitled advertisement]
+Publishing newspaper: Fayetteville, N.C. : Carolina Observer
+Date of advertisement: 1836-06-28
+Page: 3
+Time period (decade): 1830-1839
+Person placing ad: Robert Simpson
+Date of departure: 1836-07-17
+County of residence: New Hanover County (N.C.)
+Place of residence: Wilmington (N.C.)
+Coordinates: 34.209225,-77.885767
+Presumed or intended destination: Raleigh (N.C.)
+Slave name(s): Burwell Dunson
+Slaveholder: Robert Simpson
+Transcript: RANAWAY.<BR>MY Negro fellow known by the name of BURWELL DUNSON, absconded from me on Sunday last the 17th inst. I will give Twenty Dollars Reward for the delivery of said negro to me in Wilmington or in any jail in the State. All persons are cautioned against harboring him under the penalty of the law. He is about six feet high, dark complection[sic], and has a large scar on his left arm under his clothes near the shoulder. He is about 32 years of age, has an impediment in his speech, and swings in walking. He will no doubt attempt to pass for a free man He had on when he left a dark mixt Coatee with steel buttons, blue Pantaloons and white Hat. He has with him a drab colored Frock Coat which he frequently wears. Said negro was raised in the neighborhood of Raleigh, N. C.<BR>ROBT.[Robert] SIMPSON.<BR>Wilmington, July 19, 1836.<BR>99tf
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 975
+Microfilm Roll: 5
+Object ID: 09750501-1836-06-28-03
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908788295

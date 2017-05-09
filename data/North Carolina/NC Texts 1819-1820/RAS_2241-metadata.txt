@@ -1,0 +1,32 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/2241
+Headline: Ten dollars reward
+Publishing newspaper: [Place of publication not identified] : The Star and North Carolina Gazette
+Date of advertisement: 1819-07-23
+Page: 1
+Time period (decade): 1810-1819
+Person placing ad: James Biggs
+Date of departure: 1819
+County of residence: Cumberland County (N.C.)
+Place of residence: Fayetteville (N.C.)
+Coordinates: 35.08511,-78.980263
+Presumed or intended destination: Raleigh (N.C.);Warrenton (N.C.)
+Slave name(s): Aron
+Slaveholder: James Biggs
+Transcript: Ten Dollars Reward,<BR>WILL be paid to any person that will take up and confine in any jail in this State, a negro man named ARON who ranaway from me about six weeks ago. He is of a very black complexion, rather small in size, of a still quiet turn, by trade a Waggon and Stage-Maker, & is handy at any thing he goes about.  I have heard of his being in Raleigh since he ranaway, and may probably keep to Warrenton, where he lived before I bought him.<BR>JAMES BIGGS.<BR>Fayetteville, July 14, 1819.
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 2167
+Microfilm Roll: 2
+Object ID: 21670201-1819-07-23-01
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908797779

@@ -1,0 +1,30 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/72
+Headline: Ran away
+Publishing newspaper: Raleigh, N.C. : Raleigh Register and North Carolina Weekly Advertiser
+Date of advertisement: 1822-03-08
+Page: 2
+Time period (decade): 1820-1829
+Person placing ad: John Hall
+County of residence: Warren County (N.C.)
+Place of residence: Warrenton (N.C.)
+Coordinates: 36.398638,-78.157262
+Slave name(s): Phagon
+Slaveholder: John Hall
+Transcript: RAN AWAY<BR>FROM the subscriber, a Negro Fellow by the name of PHAGON. He is upwards of 20 years old, of a black complexion, of the common size, has a downcast look, speaks slow, a Shoemaker by trade.  Whoever will deliver the said Negro to me, or secure him so that I get him again, shall receive an adequate reward.  He will probably attempt to go towards the South.<BR>JNO.[JOHN] HALL.<BR>Warrenton, March 1.    72 3t
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 0252
+Microfilm Roll: 9
+Object ID: 02520901-1822-03-08-02-2
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908770548

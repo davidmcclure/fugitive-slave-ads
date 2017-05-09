@@ -1,0 +1,29 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/1401
+Headline: Ten dollars reward
+Publishing newspaper: Charlotte, N.C. : Charlotte Journal
+Date of advertisement: 1837-04-27
+Page: 3
+Time period (decade): 1830-1839
+Person placing ad: Robert Wilson
+Date of departure: 1838-04-21
+Presumed or intended destination: Steel Creek (N.C.);Chester District (S.C.)
+Slave name(s): Scott
+Slaveholder: Robert Wilson
+Transcript: Ten Dollars Reward.<BR>RANAWAY from the subscriber on the 21st inst., a negro boy named SCOTT, yellow complected, about 25 years old, 5 feet 10 inches high, and a very active fellow--he took a number of good clothes with him and a fine fur hat. He was raised by Dr. Green Porter, and will no doubt make either for that neighborhood, the Steel Creek neighborhood, or to Chester District, S.C. where he has relations. Any person taking up said boy and lodging him in any jail, so that I can get him, shall receive the above reward.<BR>ROBT.[Robert] WILSON.<BR>April 25, 1838.<BR>t97
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 2530
+Microfilm Roll: 1
+Object ID: 25300101-1838-04-27-03
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908784944

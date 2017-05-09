@@ -1,0 +1,29 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/1665
+Headline: [Untitled advertisement]
+Publishing newspaper: Wilmington, N.C. : Cape Fear Mercury
+Date of advertisement: 1773-01-13
+Page: 1
+Time period (decade): 1770-1779
+Person placing ad: James Moore
+Place of residence: Fishing-Creek (N.C.)
+Coordinates: 34.7040507, -76.6957643
+Slave name(s): Jamey
+Slaveholder: James Moore
+Transcript: RUN away from the subscriber some time in November last, a tall negro fellow called Jamey; speaks good English, and had on when he went away, a new suit of cloaths made of white negro cloth, whoever will take up the said Runaway slave & deliver him either to the subscriber at Fishing-Creek, to Travis Doram at Long-Creek, or to the Sheriff of New Hanover county, at Wilmington, shall be paid to the sum of three pounds proc, by <BR> James Moore. <BR> N.B. The said slave is outlawed.
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 248
+Microfilm Roll: 5
+Object ID: 02480501-1773-01-13-01-2
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908789542

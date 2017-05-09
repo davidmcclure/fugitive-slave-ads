@@ -1,0 +1,33 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/1260
+Headline: Five pounds reward
+Publishing newspaper: New Bern, N.C. : North Carolina Gazette, or Impartial Intelligencer, and Weekly General Advertiser
+Date of advertisement: 1796-02-13
+Page: 4
+Time period (decade): 1790-1799
+Person placing ad: John Hobday
+Date of departure: 1796-01-02
+County of residence: Craven County (N.C.)
+Place of residence: New Bern (N.C.)
+Coordinates: 35.092858,-77.071831
+Presumed or intended destination: Wayne County (N.C.)
+Slave name(s): Mingo
+Slaveholder: John Hobday
+Former slaveholder: Squire Alford
+Transcript: FIVE POUNDS REWARD. RAN-AWAY from the subscriber in Newbern, on the 2d. day of January last, a negro man named<BR>MINGO,<BR>about the age of twenty five years, of a brown complexion. He had on when he went away a light blue coat and trousers, of a middle stature. He is supposed to be lurking about Wayne County, as he was formerly the property of Squire Alford. Whoever apprehends the said negro and deliver him in Newbern goal, or to the subscriber, shall be entitled to the above reward. <BR>JOHN HOBDAY.<BR>Newbern Feb. 7.<BR>N.B. All persons are forwarned from harbouring or concealing him, and masters of vessels from carrying him away at their peril. J. H.
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 248
+Microfilm Roll: 1
+Object ID: 02480108-1796-02-13-04
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908782215

@@ -1,0 +1,32 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/1967
+Headline: Ten dollars reward
+Publishing newspaper: Wilmington, N.C. : Wilmington Gazette
+Date of advertisement: 1805-04-16
+Page: 3
+Time period (decade): 1800-1809
+Person placing ad: John D. Toomer
+Date of departure: 1805-04-07
+County of residence: New Hanover County (N.C.)
+Place of residence: Wilmington (N.C.)
+Coordinates: 34.209225,-77.885767
+Slave name(s): Prince
+Slaveholder: John D. Toomer
+Former slaveholder: John Lord
+Transcript: Ten Dollars Reward.<BR>RAN away on the 7th inst. a negro fellow named Prince, well known in the town of Wilmington, and its vicinity. For several years he has been in the service of Mr. John Lord, plays the Fiddle tolerably well, wears brown cloth pantaloons, with a short coat of the same. Whoever will deliver the said negro to me or secure him in jail, shall receive the above reward.<BR>JOHN D. TOOMER.<BR>Wilmington, April 16, 1805.--tf.
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 248
+Microfilm Roll: 6
+Object ID: 02480601-1805-04-16-03
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908794470

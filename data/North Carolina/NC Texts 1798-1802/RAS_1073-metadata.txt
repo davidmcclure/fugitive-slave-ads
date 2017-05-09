@@ -1,0 +1,33 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/1073
+Headline: Fifty dollars reward
+Publishing newspaper: Halifax, N.C. : North Carolina Journal
+Date of advertisement: 1800-10-20
+Page: 3
+Time period (decade): 1800-1809
+Person placing ad: William Kirkland
+Date of departure: 1800-09
+County of residence: Orange County (N.C.)
+Place of residence: Hillsborough (N.C.)
+Coordinates: 36.077903,-79.097979
+Presumed or intended destination: Gates County (N.C.)
+Slave name(s): Dick
+Slaveholder: William Kirkland
+Former slaveholder: Mr. Webb
+Transcript: FIFTY DOLLARS REWARD.<BR>RUNAWAY from the subscriber in September last, a likely negro fellow named DICK, about twenty-four years of age of a yellow complexion, about five feet eight inches high, stout and well made. I have reason to believe the above fellow is (and has been ever since he runaway[sic] from me) in Gates county, where I believe he was raised by a Mr. Webb, from whose son (lately a professor in the University of North Carolina) I bought him in July 1799.  I will give the above reward with all reasonable expences, to any person who will deliver the said fellow to me in Hillsborough, or thirty dollars for securing him in any jail in this state so that I get him again.<BR>WIL.[William] KIRKLAND<BR>Hillsborough, July 2 1800     30 4D
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 250
+Microfilm Roll: 2
+Object ID: 02500201-1800-10-20-03-01
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908778035

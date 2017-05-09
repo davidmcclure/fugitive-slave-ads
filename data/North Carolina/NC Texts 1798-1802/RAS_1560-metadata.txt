@@ -1,0 +1,33 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/1560
+Headline: [Untitled advertisement]
+Publishing newspaper: Wilmington, N.C. : Wilmington Gazette
+Date of advertisement: 1801-11-19
+Page: 3
+Time period (decade): 1800-1809
+Person placing ad: J. Muse
+Date of departure: 1800-02
+County of residence: Robeson County (N.C.)
+Place of residence: Lumberton (N.C.)
+Coordinates: 34.630725,-79.017563
+Slave name(s): Sam
+Slave alias: Jenning's Sam
+Slaveholder: J. Muse
+Former slaveholder: Jennings
+Transcript: RAN-AWAY from the subscriber in February 1800, a negro man named SAM, about twenty years of age, a handsome black fellow, about five feet eight or nine inches high, stout built--he is well known in Wilmington, by the name of Jenning's Sam, being purchased of him. <BR>Fifty dollars reward will be paid on his being confined in Jail so that the owner gets him, or three hundred and twenty five dollars will be taken for the chance of him, before apprehended. <BR>J. MUSE. <BR>N.B. Letters on either case will be attended to at Lumberton Post-Office. October 16th, 1801.
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 248
+Microfilm Roll: 6
+Object ID: 02480601-1801-11-19-03
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908788197

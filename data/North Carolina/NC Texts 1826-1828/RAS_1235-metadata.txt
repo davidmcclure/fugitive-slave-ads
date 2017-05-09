@@ -1,0 +1,33 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/1235
+Headline: Five dollars reward
+Publishing newspaper: [Place of publication not identified] : The Star and North Carolina State Gazette
+Date of advertisement: 1828-04-10
+Page: 3
+Time period (decade): 1820-1829
+Person placing ad: R. Tucker
+Date of departure: 1828-04-05
+County of residence: Wake County (N.C.)
+Place of residence: Raleigh (N.C.)
+Coordinates: 35.830204,-78.641439
+Presumed or intended destination: Washington County (N.C.)
+Slave name(s): Nancy
+Slaveholder: R. Tucker
+Former slaveholder: Samuel Davenport, Esquire
+Transcript: Five Dollars Reward.<BR>Ran away from the subscriber, on the night of the 5th instant, a negro woman, named NANCY. She is about 19 or 20 years of age, some smaller than the common size of her age--weighs, perhaps, about 125 or 130: she is of a dark mulatto complexion; has a round face, flat nose and short hair. The articles of clothing she took with her, are a dark striped calico bonnet; one white striped muslin, one deep blue, one green calico, one checked northern homespun, and one striped copperas colour homespun frock; one pair of shoetees, right and left, half worn, and one pair of morocco shoes. She was purchased of Samuel Davenport, Esq. of Washington county in this State, and it is probable she is making her way to his neighborhood. The above reward and all reasonable expenses will be given for her delivery to the subscriber in this city, or confinement in any jail so that he can get her again.<BR>R. TUCKER.<BR>Raleigh, April 9, 1828<BR>15-tf
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 2167
+Microfilm Roll: 3
+Object ID: 21670301-1828-04-10-03-01
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908781234

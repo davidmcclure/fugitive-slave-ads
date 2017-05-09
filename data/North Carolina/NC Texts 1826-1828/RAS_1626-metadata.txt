@@ -1,0 +1,33 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/1626
+Headline: Ranaway
+Publishing newspaper: New Bern, N.C. : Carolina Centinel
+Date of advertisement: 1826-09-02
+Page: 4
+Time period (decade): 1820-1829
+Person placing ad: George Reid
+Date of departure: 1826-07-12
+County of residence: Craven County (N.C.)
+Place of residence: New Bern (N.C.)
+Coordinates: 35.092858,-77.071831
+Presumed or intended destination: Pollocksville (N.C.)
+Slave name(s): George;Dick
+Slaveholder: George Reid
+Former slaveholder: Daniel Shackelford;Isaac Kornegay
+Transcript: RANAWAY<BR>FROM the Subscriber on the 12th ultimo, GEORGE,  yellow man about six feet high, belonging to the estate of Daniel Shackelford, deceased.-- Also, a black man named DICK, belonging to the estate of Isaac Kornegay, deceased.  Dick is a tall slim fellow, and it is supposed he is lurking about the plantation of Mr. McDaniels, near Trent Bridge.--I will give a reward of Ten Dollars for either of them, if delivered in Newbern, or secured in any Jail so that I get them, and all reasonable expenses paid.<BR>GEO.[GEORGE] REID.<BR>August 12, 1826--38tf.
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 2534
+Microfilm Roll: 3
+Object ID: 25340301-1826-09-02-04-2
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908789063

@@ -1,0 +1,29 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/2233
+Headline: $250 reward
+Publishing newspaper: [Place of publication not identified] : The Star and North Carolina State Gazette
+Date of advertisement: 1818-10-23
+Page: 3
+Time period (decade): 1810-1819
+Person placing ad: David H. Bell
+Date of departure: 1818-10-10
+County of residence: Cumberland County (N.C.)
+Slave name(s): Harry;Peter;Andrew;Ned;Daniel
+Slaveholder: David H. Bell
+Transcript: NOTICE.<BR>RUNAWAY form the Subscriber about the 26th of July last a negro woman named Syleeia, about 40 years of age, five feet seven or eight inches high, of a dark complexion, serious countenance and has a manly voice, had on when she left home white homespun clothing and carried with her some clothes (not recollected.) Any person securing said negro in any Jail, shall be entitled to a reward of Twenty dollars or Forty dollars if delivered to the Subscriber near the mouth of Rocky River, Anson County, N.C.<BR>ISAAC ABERCOMBIE, Sen.<BR>October 23.
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 2167
+Microfilm Roll: 2
+Object ID: 21670201-1818-10-23-03-1
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908797616

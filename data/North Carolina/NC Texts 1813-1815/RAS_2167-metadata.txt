@@ -1,0 +1,31 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/2167
+Headline: Twenty dollars reward
+Publishing newspaper: Raleigh, N.C. : The Star
+Date of advertisement: 1813-07-30
+Page: 1
+Time period (decade): 1810-1819
+Person placing ad: James W. England
+County of residence: Cumberland County (N.C.)
+Place of residence: Fayetteville (N.C.)
+Coordinates: 35.08511,-78.980263
+Slave name(s): Joshua
+Slaveholder: James W. England
+Former slaveholder: Mr. Lee
+Transcript: Twenty Dollars Reward.<BR>RUNAWAY from the subscriber a few months ago, a Negro man called JOSHUA, about five feet ten inches high, round shoulders, and yellowish complected, between twenty and thirty years of age. He was raised in Essex co. Virginia, and carried from thence to Sneedsborough, by Mr. Lee, dec. and since sold by a Mr. Peter Benford, to me in this place. It is supposed that he apprehending the said fellow, and lodging him in any Jail, & giving me notice so that I get him again, shall be entitled to the above reward, and if brought to me, all reasonable charges paid.<BR>JAMES W. ENGLAND.<BR>Fayetteville, July 12th, 1813.
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 2167
+Microfilm Roll: 1
+Object ID: 21670101-1813-07-30-01
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908796473

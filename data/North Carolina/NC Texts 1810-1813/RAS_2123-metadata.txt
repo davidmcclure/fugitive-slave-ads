@@ -1,0 +1,33 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/2123
+Headline: Twenty dollars reward
+Publishing newspaper: Raleigh, N.C. : The Star
+Date of advertisement: 1812-04-17
+Page: 1
+Time period (decade): 1810-1819
+Person placing ad: Levi Whitted
+Date of departure: 1812-03-06
+County of residence: Orange County (N.C.)
+Place of residence: Hillsborough (N.C.)
+Coordinates: 36.077903,-79.097979
+Presumed or intended destination: Fayetteville (N.C.);Elizabeth (N.C.);Wilmington (N.C.)
+Slave name(s): Jack
+Slave alias: Reville
+Slaveholder: Levi Whitted
+Transcript: Twenty Dollars Reward.<BR>RANAWAY from the subscriber on the 6th day of March last, a mulatto man by the name of JACK, well built, about five feet nine or ten inches high, 28 years of age, a tolerable shoemaker. He has a scar on his forehead, and a part of one of his upper foreteeth broken off, one of his wrists broke and crooked, and his right leg pretty much shot with small shot which will shew [sic] very plainly. He is supposed to be lurking about Fayetteville, Elizabeth, or Wilmington, in this state, and it is probable that he will pass as a free man by the name of Reville. Any person who will secret him in any jail so that I get him shall receive the above reward.<BR>LEVI WHITTED.<BR>Hillsborough, April 8, 1812.
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 2167
+Microfilm Roll: 1
+Object ID: 21670101-1812-04-17-01
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908795503

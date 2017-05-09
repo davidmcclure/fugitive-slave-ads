@@ -1,0 +1,31 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/310
+Headline: $20 reward
+Publishing newspaper: Fayetteville, N.C. : Carolina Observer
+Date of advertisement: 1839-04-17
+Page: 3
+Time period (decade): 1830-1839
+Person placing ad: Giles S. McLean
+County of residence: Robeson County (N.C.)
+Place of residence: Alfordsville (N.C.)
+Coordinates: 34.626649,-79.346556
+Slave name(s): Mathias
+Slaveholder: Giles S.McLean
+Former slaveholder: Ann McDonald
+Transcript: $20 Reward.<BR>THE above reward will be paid for the safe delivery to me of my Negro man MATHIAS. He is about 5 feet 9 inches in height, dark complected, weighs about 160 lbs.<BR>I purchased said Negro of Ann McDonald, who lives where Elias Alford formerly lived in this County. I am of the opinion that he is now lurking about said Plantation.<BR>GILES S. McLEAN.<BR>Alfordsville, April 13, 1839.<BR>41-3w
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 975
+Microfilm Roll: 7
+Object ID: 09750701-1839-04-17-03
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908771470

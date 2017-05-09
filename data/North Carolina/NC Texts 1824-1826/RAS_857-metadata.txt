@@ -1,0 +1,33 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/857
+Headline: Fifteen dollars reward
+Publishing newspaper: New Bern, N.C. : Carolina Centinel
+Date of advertisement: 1825-12-31
+Page: 3
+Time period (decade): 1820-1829
+Person placing ad: Sharack Loftin
+Date of departure: 1825-12-12
+County of residence: Lenoir County (N.C.)
+Place of residence: Kinston (N.C.)
+Coordinates: 35.275099,-77.593368
+Presumed or intended destination: Lenoir County (N.C.)
+Slave name(s): Lewis
+Slaveholder: Sharack Loftin
+Former slaveholder: Richard Witherington
+Transcript: Fifteen Dollars Reward.<BR>RAN AWAY from the Subscriber, on the 12th inst. a Negro man named LEWIS.  He is about 25 years of age, five feet four or five inches high, yellow complexion, has a scar on one side of his face, speaks very quick, and is an impudent fellow. He formerly belonged to the late Richard Witherington, of Lenoir County, and is probably now lurking in that quarter, or in some of the neighbouring seaports towns.  Masters of vessels, and all othes are cautioned against harboring or carrying him away, under the penalty of the law.  The above reward, and all reasonable expenses, will be paid to any person who will confine said Negro in jail so that I get him again.<BR>SHADRACK LOFTIN.<BR>Kinston, Lenoir County, Dec. 24, 1825.
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 2534
+Microfilm Roll: 3
+Object ID: 25340301-1825-12-31-03
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908775959

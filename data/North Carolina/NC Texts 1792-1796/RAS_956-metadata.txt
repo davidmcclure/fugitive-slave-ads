@@ -1,0 +1,32 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/956
+Headline: Twenty dollars reward
+Publishing newspaper: Edenton, N.C. : State Gazette of North Carolina
+Date of advertisement: 1793-03-30
+Page: 3
+Time period (decade): 1790-1799
+Person placing ad: Stephen Cabarrus
+Date of departure: 1793-03
+County of residence: Chowan County (N.C.)
+Place of residence: Edenton (N.C)
+Coordinates: 36.057923,-76.600879
+Presumed or intended destination: Perquimans County (N.C.)
+Slave name(s): Isaac
+Slaveholder: Stephen Cabarrus
+Transcript: TWENTY DOLLARS REWARD,<BR>WILL be given, for taking up and delivering to me, or securing so that I get him again, a NEGRO MAN, named ISAAC, who ran away about fifteen days past.  He is about five feet nine inches high, well made and twenty five years of age. He took with him a short blue coat and breeches, and I have reason to believe that he is lurking in Perquimans county, where I understand he has lately taken a wife. He left me without any cause whatever for absenting himself.  I trust that no master of a vessel will carry him away, and I shall be under the necessity of prosecuting him to the utmost vigour of the law.<BR>STEPHEN CABARRUS.<BR>Edenton, March 20, 1793.
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 257
+Microfilm Roll: 1
+Object ID: 02570101-1793-03-30-03-1
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908776977

@@ -1,0 +1,29 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/1214
+Headline: Notice
+Publishing newspaper: Wilmington, N.C. : Cape Fear recorder
+Date of advertisement: 1823-08-02
+Page: 3
+Time period (decade): 1820-1829
+Person placing ad: A.M. Hooper
+County of residence: New Hanover County (N.C.)
+Place of residence: Wilmington (N.C.)
+Coordinates: 34.209225,-77.885767
+Slave name(s): Peter
+Slaveholder: A.M. Hooper
+Transcript: NOTICE.<BR>RAN AWAY, a negro Carpenter named<BR>PETER,<BR>well known in Wilmington and the vicinity. He is disceased; and drinks hard, and steals, whenever he can find opportunities.<BR>I will give Five Dollars reward to any person who will commit him to Jail, or deliver him to me at the Salt Work.     tf<BR>July 26.       A. M. HOOPER.
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 2537
+Microfilm Roll: 1
+Object ID: 25370101-1823-08-02-03
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908781030

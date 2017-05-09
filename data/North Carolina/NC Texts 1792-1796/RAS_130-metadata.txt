@@ -1,0 +1,27 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/130
+Headline: [Untitled advertisement]
+Publishing newspaper: Halifax, N.C. : North Carolina Journal
+Date of advertisement: 1792-10-24
+Time period (decade): 1790-1799
+Date of departure: 1792-10-10
+County of residence: Warren County (N.C.)
+Place of residence: Warrenton (N.C.)
+Coordinates: 36.441143,-78.111492
+Slave name(s): Tab
+Transcript: RAN-AWAY about the 10th instant, a Mulatto Woman named TAB, betwixt 40 and 50 years of age, pretty stout made, and tolerably sensible, is a little marked with the small-pox.  She had on when she went away, a straw hat, but what clothes in uncertain.  She has a little dog, nearly white, that follows her and answers to the name Fan.  Any Person who will deliver her to me at Warrenton, shall receive FIVE DOLLARS Reward, and be allowed all reasonable charges.
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 250
+Microfilm Roll: 1
+Object ID: 02500101-1792-10-24-03-01
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908770864

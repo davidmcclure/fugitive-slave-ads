@@ -1,0 +1,32 @@
+Item Metadata for: http://libcdm1.uncg.edu/cdm/ref/collection/RAS/id/1761
+Headline: Runaway
+Publishing newspaper: Raleigh, N.C. : Raleigh Register and North Carolina Weekly Advertiser
+Date of advertisement: 1838-08-13
+Page: 2
+Time period (decade): 1830-1839
+Person placing ad: Claton Lea
+Date of departure: 1838-07-30
+County of residence: Wake County (N.C.)
+Place of residence: Rolesville (N.C.)
+Coordinates: 35.924764,-78.46459
+Presumed or intended destination: Edgecomb County (N.C.)
+Slave name(s): Ben
+Slaveholder: Claton Lea
+Transcript: RUNAWAY<BR>FROM the Subscriber residing in the vicinity of Rolesville, on the 30th day of July last a negro man by the name of<BR>BEN,<BR>about 30 Years of age, nearly 6 feet high, a very slick black, with one crooked knee, perhaps his right, it bears considerably towards his other knee when walking, an uncommon large foot, his fore teeth affected and look dark, so much so, as to be plainly discovered if noticed.  It is expected from intelligence received from some free people of colour, since he started, he intends passing as a free man.  When last heard from, he was on his way to Edgecomb County, North Carolina.  Any person bringing him to me, or lodging him in some Jail, so that I get him again, shall receive a reasonable reward, with all recessary expenses paid.<BR>CLATON LEA<BR>Rolesville, August 7, 1838
+Subject headings: Fugitive slaves--North Carolina--History--Sources;Slavery--North Carolina--History--Sources;Plantation life--North Carolina--History--Sources;North Carolina--History--1775-1865--Sources
+Type: Text
+Original format: clippings;advertisements
+Language: en
+Source collection: North Carolina Runaway Slave Advertisements Digital Collection
+Collection home page: http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS
+Rights statement: http://rightsstatements.org/vocab/NoC-US/1.0/
+Additional rights information: NO COPYRIGHT - UNITED STATES. This item has been determined to be free of copyright restrictions in the United States. The user is responsible for determing actual copyright status for any reuse of the material.
+Microfilm #: 252
+Microfilm Roll: 14
+Object ID: 02521401-1838-08-13-02
+Date digitized: 2011
+Digital master format: Image/tiff
+Digital access format: Image/jp2
+Digital publisher: The University of North Carolina at Greensboro
+Funding source: NC ECHO Digitization Grant administered using LSTA funds through the State Library of North Carolina.
+OCLC number: 908791250
