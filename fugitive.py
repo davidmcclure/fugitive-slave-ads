@@ -1,10 +1,20 @@
 
 
 import attr
+import scandir
+import re
+import os
 
 from textblob import TextBlob
 from cached_property import cached_property
 
+def scan_paths(root, pattern):
+    """Given a top-level directory and path regex, generate paths recursively.
+    """
+    for root, dirs, files in scandir.walk(root):
+        for name in files:
+            if not pattern or re.search(pattern, name):
+                yield os.path.join(root, name)
 
 class Ad(dict):
 
@@ -43,3 +53,8 @@ class Ad(dict):
 class Corpus:
 
     path = attr.ib()
+
+    def paths(self):
+        """Generate ad paths.
+        """
+        return scan_paths(self.path, '\.txt')
